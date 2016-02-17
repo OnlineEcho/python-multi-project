@@ -11,4 +11,4 @@ The current commands once logged in are:
                                         p/getip -- shows your current ip adress
                                         
                                         
-                                        p/packsniffer -- sniffs and finds all ingoing and outgoing packets, and shows their                                                           ethernet ip and port, among other things.
+                                        p/packsniffer -- sniffs and finds all ingoing and outgoing packets, and shows their ethernet ip and port, among other things.
