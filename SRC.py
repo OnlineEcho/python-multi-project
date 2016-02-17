@@ -16,9 +16,6 @@ def userlogin():
     name = raw_input("pyterm://>" )
     
     if name == "OnlineEcho" or name == "onlineecho" or name == "shinrise" or name == "ShinRise" or name == "username":
-        
-
-:
         print ("please input your password, %s" % name)
     else:
         print ("acess denied: wrong username")
